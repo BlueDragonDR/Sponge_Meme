@@ -74,10 +74,6 @@ export const Faq = () => {
 Hopefully, that covers your questions. If not, well, feel free to ask more."
             />
 
-            {/* <Accordion
-              title="3.How to buy sponge?"
-              content="3.what  sponge is different than others?"
-            /> */}
           </div>
         </div>
       </div>
